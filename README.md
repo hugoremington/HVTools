@@ -39,7 +39,7 @@ The elegant table views make it easy to use, find gaps, and identify improvement
 4. (Optional) ServiceNow integration using service hooks.
 
 > [!NOTE]  
-> There additional features were incorporated into the propietary edition v2.0.0 of HVTools back in 2024.
+> These additional features were incorporated into the propietary edition v2.0.0 of HVTools back in 2024.
 
 ---
 
